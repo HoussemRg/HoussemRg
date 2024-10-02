@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Houssem Regaieg</h1>
 <h3 align="center">Final-year Software Engineering student passionate about full-stack development and DevOps, specializing in building scalable web applications.</h3>
 
-- 💬 Ask me about **Full-stack web development (MERN, TypeScript, Tailwind), DevOps practices (Docker, Kubernetes, CI/CD) Scalable microservices architecture, Project management systems and dashboards**
+- 💬 Ask me about **Full-stack web development (MERN, TypeScript, JAVA, SpringBoot), DevOps practices (Docker, Kubernetes, CI/CD) Scalable microservices architecture, Project management systems and dashboards**
 
 - 📫 How to reach me **houssemrg00@gmail.com**
 
